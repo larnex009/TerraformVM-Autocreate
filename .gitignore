@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+tfplan
+crash.log
+secrets.auto.tfvars
+pc-inventory.csv
